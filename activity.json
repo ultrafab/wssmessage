@@ -1,11 +1,11 @@
 {
   "name": "sendWSSMessage",
   "type": "flogo:activity",
-  "ref": "github.com/TIBCOSoftware/flogo-contrib/activity/wssmessage",
+  "ref": "github.com/ultrafab/wssmessage",
   "version": "0.0.1",
   "title": "Send WebSocket Message",
   "description": "This activity sends a message to a Secure WebSocket enabled servers",
-  "homepage": "https://github.com/TIBCOSoftware/flogo-contrib/tree/master/activity/wssmessage",
+  "homepage": "https://github.com/ultrafab/wssmessage",
   "input":[
     {
       "name": "Server",
