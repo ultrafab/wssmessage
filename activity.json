@@ -3,7 +3,7 @@
   "type": "flogo:activity",
   "ref": "github.com/ultrafab/wssmessage",
   "version": "0.0.1",
-  "title": "Send WebSocket Message",
+  "title": "Send Secure WebSocket Message",
   "description": "This activity sends a message to a Secure WebSocket enabled servers",
   "homepage": "https://github.com/ultrafab/wssmessage",
   "input":[
